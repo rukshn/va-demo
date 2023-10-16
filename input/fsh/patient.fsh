@@ -1,6 +1,6 @@
-Id:          va-global-patient
-Parent:      Patient
-Title:       "Verbal Autopsy Patient"
+Id: va-patient
+Parent: Patient
+Title: "Verbal Autopsy Patient"
 Description: "Example Verbal Autopsy Patient Profile"
 * identifier 1..
 * identifier ^slicing.discriminator.type = #value

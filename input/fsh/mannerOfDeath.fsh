@@ -1,4 +1,4 @@
-lias: $loinc = http://loinc.org
+Alias: $loinc = http://loinc.org
 Alias: $vrdr-decedent = http://hl7.org/fhir/us/vrdr/StructureDefinition/vrdr-decedent
 Alias: $vrdr-certifier = http://hl7.org/fhir/us/vrdr/StructureDefinition/vrdr-certifier
 Alias: $vrdr-manner-of-death-vs = http://hl7.org/fhir/us/vrdr/ValueSet/vrdr-manner-of-death-vs
