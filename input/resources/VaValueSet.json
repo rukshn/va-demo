@@ -1,0 +1,19 @@
+{
+  "resourceType": "ValueSet",
+  "url": "http://whi.int/ValueSet/smartva",
+  "title": "Smart VA ValueSet",
+  "status": "draft",
+  "compose": {
+    "include": [
+      {
+        "system": "http://whi.int/CodeSystem/smartva"
+      }
+    ]
+  },
+  "description": "Dummy ValueSet for SMART va",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h2>Smart VA ValueSet</h2><tt>http://whi.int/ValueSet/smartva</tt><p>Dummy ValueSet for SMART va</p></div>"
+  },
+  "name": "Smart_VA_ValueSet"
+}

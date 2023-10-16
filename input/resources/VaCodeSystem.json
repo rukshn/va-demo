@@ -1,0 +1,53 @@
+{
+  "resourceType": "CodeSystem",
+  "title": "SMART VA Code System",
+  "url": "http://whi.int/CodeSystem/smartva",
+  "version": "1",
+  "status": "draft",
+  "contact": [
+    {
+      "telecom": [
+        {
+          "system": "email"
+        }
+      ]
+    }
+  ],
+  "description": "Dummy code system for SMART va",
+  "compositional": false,
+  "content": "complete",
+  "concept": [
+    {
+      "code": "234234",
+      "display": "example code",
+      "definition": "example code definition"
+    },
+    {
+      "code": "222423",
+      "display": "example code 2",
+      "definition": "example code definition 2"
+    },
+    {
+      "code": "45645",
+      "display": "example code 3",
+      "definition": "example code definition 3"
+    },
+    {
+      "code": "56756",
+      "display": "example code 4",
+      "definition": "example code definition 4"
+    },
+    {
+      "code": "45645645",
+      "display": "example code 5",
+      "definition": "example code definition 5"
+    }
+  ],
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h2>SMART VA Code System</h2><tt>http://whi.int/CodeSystem/smartva</tt><p>Dummy code system for SMART va</p></div>"
+  },
+  "name": "SMART_Va_Code_System",
+  "caseSensitive": true,
+  "count": 5
+}
