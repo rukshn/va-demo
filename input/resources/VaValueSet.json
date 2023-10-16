@@ -1,5 +1,6 @@
 {
   "resourceType": "ValueSet",
+  "id": "smart-va-valueset",
   "url": "http://whi.int/ValueSet/smartva",
   "title": "Smart VA ValueSet",
   "status": "draft",

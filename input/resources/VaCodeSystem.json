@@ -1,5 +1,6 @@
 {
   "resourceType": "CodeSystem",
+  "id": "smart-va-codesystem",
   "title": "SMART VA Code System",
   "url": "http://whi.int/CodeSystem/smartva",
   "version": "1",
