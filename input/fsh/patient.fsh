@@ -1,3 +1,4 @@
+Profile: VaPatient
 Id: va-patient
 Parent: Patient
 Title: "Verbal Autopsy Patient"
