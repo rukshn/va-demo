@@ -6,6 +6,6 @@ The collected data is then analyzed by trained professionals, often using standa
 
 ## SMART Guidelines
 
-![image](https://cdn.who.int/media/images/default-source/digital-health/image-web-2.png?sfvrsn=2c510fd6_5&Status=Master)
+<img src="https://cdn.who.int/media/images/default-source/digital-health/image-web-2.png" style="width:100%;">
 
 SMART Guidelines — Standards-based, Machine-readable, Adaptive, Requirements-based, and Testable -- are a comprehensive set of reusable digital health components (e.g., interoperability standards, code libraries, algorithms, technical and operational specifications) that transform the guideline adaptation and implementation process to preserve fidelity and accelerate uptake. SMART Guidelines provide a five-step pathway to advance the adoption of best clinical and data practices, even if a country is not yet fully digital.

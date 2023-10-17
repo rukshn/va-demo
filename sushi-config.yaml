@@ -6,7 +6,7 @@
 id: va.global
 canonical: http://who.int
 name: VerbalAutopsy
-# title: Example Title
+title: Verbal Autopsy SMART IG
 # description: Example Implementation Guide for getting started with SUSHI
 status: draft # draft | active | retired | unknown
 version: 0.1.0
